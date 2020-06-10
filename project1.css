@@ -1,24 +1,5 @@
-#first      {
-  background-image: url(https://1numedia.com/mt-content/uploads/2018/01/mt-1316-content-bg03.jpg);
-  padding: 2px;
-  border-radius: 20px;
-}
-.color{
-  background-color: #f2f5f7;
-}
-.welcome{
-  padding-left: 20px;
-  padding-right: 20px;
-}
-.carousel-item {
-  height: 65vh;
-  min-height: 350px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
+
 .social a{
 font-size: 4em;
 padding: 3rem;
@@ -126,6 +107,6 @@ footer{
    color:white;
    text-decoration:none;
    }
-   .btn-floating{
-
+   .color{
+     background-color: #e8f4fd;
    }
