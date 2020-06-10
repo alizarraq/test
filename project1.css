@@ -1,0 +1,131 @@
+#first      {
+  background-image: url(https://1numedia.com/mt-content/uploads/2018/01/mt-1316-content-bg03.jpg);
+  padding: 2px;
+  border-radius: 20px;
+}
+.color{
+  background-color: #f2f5f7;
+}
+.welcome{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.social a{
+font-size: 4em;
+padding: 3rem;
+}
+.fa:hover {
+  color: #d5d5d5;
+
+}
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #00aced;
+}
+.fa-google {
+  color: #dd4b39;
+}
+.fa-youtube {
+  color: #bb0000;
+}
+.fa-instagram {
+  color: #517fa4
+}
+.back{
+    background-color: #3f3f3f;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+  }
+.imgpadding{
+  padding-bottom: 3rem;
+}
+
+footer{
+  background-color:#343a40;
+  color: #d5d5d5;
+  padding-top: 6rem;
+
+}
+
+
+
+#logo h3 {
+  color: #666;
+  width:100%;
+    font-size: 50px;
+    text-shadow: 1px 2px 3px #999;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+#logo h4 {
+  color: #666;
+  width:100%;
+    font-size: 30px;
+    text-shadow: 1px 2px 3px #999;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    letter-spacing: -1px;
+}
+
+
+   .searchbar{
+   margin-bottom: auto;
+   margin-top: auto;
+   height: 60px;
+   background-color: #353b48;
+   border-radius: 30px;
+   padding: 10px;
+   }
+
+   .search_input{
+   color: white;
+   border: 0;
+   outline: 0;
+   background: none;
+   width: 0;
+   caret-color:transparent;
+   line-height: 40px;
+   transition: width 0.4s linear;
+   }
+
+   .searchbar:hover > .search_input{
+   padding: 0 10px;
+   width: 450px;
+   caret-color:red;
+   transition: width 0.4s linear;
+   }
+
+   .searchbar:hover > .search_icon{
+   background: white;
+   color: #e74c3c;
+   }
+
+   .search_icon{
+   height: 40px;
+   width: 40px;
+   float: right;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 50%;
+   color:white;
+   text-decoration:none;
+   }
+   .btn-floating{
+
+   }
